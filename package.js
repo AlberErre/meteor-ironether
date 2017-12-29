@@ -1,6 +1,6 @@
 Package.describe({
   name: 'albererre:ironether',
-  version: '0.0.9',
+  version: '0.1.0',
   // Brief, one-line summary of the package.
   summary: 'Show Accounts without ether unit',
   // URL to the Git repository containing the source code for this package.

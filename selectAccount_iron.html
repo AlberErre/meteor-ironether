@@ -1,5 +1,5 @@
 <template name="dapp_selectAccount_iron">
-    <div class="dapp_selectAccount_iron {{class}}">
+    <div class="dapp_selectAccount {{class}}">
         <select name="{{#if name}}{{name}}{{else}}dapp-select-account{{/if}}" class="{{class}}">
             {{#each accounts}}
                 <option value="{{address}}" {{selected}}>
